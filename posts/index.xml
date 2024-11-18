@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://192.168.0.36:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2024 07:28:15 +0800</lastBuildDate>
+    <atom:link href="http://192.168.0.36:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helloworld</title>
+      <link>http://192.168.0.36:1313/posts/helloworld/</link>
+      <pubDate>Mon, 18 Nov 2024 07:28:15 +0800</pubDate>
+      <guid>http://192.168.0.36:1313/posts/helloworld/</guid>
+      <description>&lt;h1 id=&#34;這是我的第一篇博客&#34;&gt;這是我的第一篇博客&lt;/h1&gt;&#xA;&lt;p&gt;這是我的第一篇&lt;strong&gt;部落格&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://techxiaofei.com&#34;&gt;個人網站連結&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://192.168.0.36:1313/img/screenshot.png&#34; alt=&#34;圖片&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
